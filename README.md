@@ -88,8 +88,3 @@ This is a Hotel Management System built using **C#** (Visual Studio / .NET). The
 
 - Deploy the system to a server / cloud (if web-based) or package installer (if desktop) for distribution.
 
-### 📺 Demo / Screenshots
-
-## 📝 License
-
-** This project is for educational purposes only.
