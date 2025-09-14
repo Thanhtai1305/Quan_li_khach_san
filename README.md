@@ -74,22 +74,22 @@ This is a Hotel Management System built using **C#** (Visual Studio / .NET). The
 ## 📊 Future Improvements
 ### 🔄 UI/UX Enhancement
 
---Modernize the user interface with responsive design, better visuals.
+- Modernize the user interface with responsive design, better visuals.
 
 ### 🔒 Security Enhancements
 
---Implement user Authentication & Authorization.
+- Implement user Authentication & Authorization.
 
 ### 💾 Reporting Module
 
---Generate reports (e.g., occupancy, revenue) in PDF or Excel formats.
+- Generate reports (e.g., occupancy, revenue) in PDF or Excel formats.
 
 ### ☁️ Deployment
 
---Deploy the system to a server / cloud (if web-based) or package installer (if desktop) for distribution.
+- Deploy the system to a server / cloud (if web-based) or package installer (if desktop) for distribution.
 
 ### 📺 Demo / Screenshots
 
 ## 📝 License
 
-**This project is for educational purposes only.
+** This project is for educational purposes only.
